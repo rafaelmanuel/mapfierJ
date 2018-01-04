@@ -1,5 +1,7 @@
 package io.ermdev.mapfierj;
 
+import io.ermdev.mapfierj.cj7.Transaction;
+
 import java.util.Collection;
 import java.util.HashMap;
 
